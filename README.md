@@ -38,7 +38,7 @@ A vízaknában a csapot le kell zárni. Az utcáról nézve jobb oldali vízóra
 
 ## A kertben:
 
-1. A kerti csapot kinyitni, minden két csapot, és a kerti slaugot is vízteleníteni  
+1. A kerti csapot kinyitni, mindkét csapot, és a kerti slaugot is vízteleníteni  
 ![kert](kert.jpg)
 
 2. A vízaknában a másik csapnál kiengedni a maradék vizet és nyitva hagyni:  
