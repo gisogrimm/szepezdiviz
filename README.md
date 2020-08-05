@@ -1,45 +1,45 @@
 # Víztelenítés Szepezden
 
-Ha bene maradt a víz a csőben vagy a bojlerben akkor télen megfagy és a cső vagy bojler megreped.
+Mielőtt jön  a tél vízteleníteni kell a csöveket és a bojlert, hogy  ne fagyjon bele a víz. Miután lezártuk a vízaknában a fővezetéket, a házban és a kertben minden csapot nyitva kell hagyni télre.
 
-## Az aknában lezárni:
+## Az aknában:
 
-A vizes aknaban a csapot le kell zárni. Az utcaról nézve a jobb oldali csapnál azt a csapot kell lezárnin, ami a vízórához közelebb van:
+A vízaknában a csapot le kell zárni. Az utcáról nézve jobb oldali vízóra a miénk. Azt a csapot kell lezárni, ami a vízórához közelebb van:
 
 ![vizes akna](akna1.jpg)
 
-## A fürdőszobában kinyítni:
+## A fürdőszobában:
 
-1. A régi WC öblitő csövet kinítni:  
+1. A régi WC öblitő csövet kinyitni:  
 ![WC](wcregi.jpg)
 
 2. Az új WC-t lehúzni
 
-3. A mosdóban a csapot kinítni, középső állásban:  
+3. A mosdóban a csapot középső állásban kinyitni és úgy hagyni:  
 ![mosdo](mosdo.jpg)
 
-4. A zuhanyban középső állásban kinyítni
+4. A zuhanycsapot is középső állásban kell nyitva hagyni.
 
 5. A bojlerből kiengedni az összes vizet:  
 ![boiler](boiler.jpg)
 
-6. A mosógép slaugot (kék műanyag csavar, elvileg kézzel lehet kinyítni) leszerelni - a víz folyhat a padloi kifolyóba:  
+6. A mosógép slaugot (kék műanyag csavar, elvileg kézzel lehet kinyítni) leszerelni - a víz folyhat a padlón az összefolyóba:  
 ![mosogep](mosogep.jpg)
 
-7. A mosógépet kinítni, hogy belülről ne büdösödjön be
+7. A mosógépet kinyitni, hogy belülről ne büdösödjön be
 
-## A konyhában kinyítni:
+## A konyhában:
 
-1. A mosogatót kinyítni középső állásban:  
+1. A mosogatócsapot kinyitni és középső állásban hagyni:  
 ![mosogato](mosogato.jpg)
 
-2. A mosógatógép slaugot lecsavarni - a mosógató alatt. A vizet egy lábosba lehet engedni és kiönteni. A mosógatógép csapot esetleg lezárni, hogy nyításkor ne legyen minden vizes.  
+2. A mosógatógép slaugot lecsavarni - a mosogató alatt. A vizet egy lábosba lehet engedni és kiönteni. A mosogatógép csapot esetleg lezárni, hogy nyitáskor ne legyen minden vizes.  
 ![mosogatogep](mosogatogep.jpg)
 
-## A kértben:
+## A kertben:
 
-1. A kerti csapot kiníyitni, minden két csapot, és a kérti slaugot is vízteleníteni  
+1. A kerti csapot kinyitni, minden két csapot, és a kerti slaugot is vízteleníteni  
 ![kert](kert.jpg)
 
-2. A vizes aknában a másik csapnál kiengedni a maradék vizet:  
+2. A vízaknában a másik csapnál kiengedni a maradék vizet és nyitva hagyni:  
 ![akna2](akna2.jpg)
