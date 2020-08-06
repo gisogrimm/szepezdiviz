@@ -34,7 +34,8 @@ A vízaknában a csapot le kell zárni. Az utcáról nézve jobb oldali vízóra
 ![mosogato](mosogato.jpg)
 
 2. A mosógatógép slaugot lecsavarni - a mosogató alatt. A vizet egy lábosba lehet engedni és kiönteni. A mosogatógép csapot esetleg lezárni, hogy nyitáskor ne legyen minden vizes.  
-![mosogatogep](mosogatogep.jpg)
+![mosogatogep](mosogatogep.jpg)  
+A mosógatógépet is nyitva hagyni, hogy száradjon.
 
 3. A tűzhely meletti csapot (ahol a gázpalack áll) kinyitni és a vizet egy lábosba engedni:  
 ![tuzhely](tuzhely.jpg)
