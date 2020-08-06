@@ -20,7 +20,7 @@ A vízaknában a csapot le kell zárni. Az utcáról nézve jobb oldali vízóra
 
 4. A zuhanycsapot is középső állásban kell nyitva hagyni.
 
-5. A bojlerből kiengedni az összes vizet:  
+5. A bojlerből kiengedni az összes vizet - de előtte az áramot le kell kapcsolni ott a falon:  
 ![boiler](boiler.jpg)
 
 6. A mosógép slaugot (kék műanyag csavar, elvileg kézzel lehet kinyítni) leszerelni - a víz folyhat a padlón az összefolyóba:  
@@ -35,6 +35,10 @@ A vízaknában a csapot le kell zárni. Az utcáról nézve jobb oldali vízóra
 
 2. A mosógatógép slaugot lecsavarni - a mosogató alatt. A vizet egy lábosba lehet engedni és kiönteni. A mosogatógép csapot esetleg lezárni, hogy nyitáskor ne legyen minden vizes.  
 ![mosogatogep](mosogatogep.jpg)
+
+3. A tűzhely meletti csapot (ahol a gázpalack áll) kinyitni és a vizet egy lábosba engedni:  
+![tuzhely](tuzhely.jpg)
+
 
 ## A kertben:
 
