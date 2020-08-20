@@ -28,7 +28,8 @@ A vízaknában a csapot le kell zárni. Az utcáról nézve jobb oldali vízóra
 
 7. A mosógépet kinyitni, hogy belülről ne büdösödjön be
 
-8. A mosógépet pumpáját vízteleníteni: A mosógépnél elől lent jobb szélén a kis ajtó mögötti nyilást kitekerni. A víz kifolyik a padlóra.  
+8. A mosógépet pumpáját vízteleníteni: A mosógép elülső oldala jobb alsó
+sarkán a kis ajtó mögötti dugaszt kinyitni. A víz kifolyik a padlóra.  
 ![mosogep](mosogep2.jpg)
 
 ## A konyhában:
