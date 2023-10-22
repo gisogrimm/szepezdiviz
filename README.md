@@ -44,6 +44,8 @@ A mosógatógépet is nyitva hagyni, hogy száradjon.
 3. A tűzhely meletti csapot (ahol a gázpalack áll) kinyitni és a vizet egy lábosba engedni:  
 ![tuzhely](tuzhely.jpg)
 
+4. Nyissd ki a hűtőszekrény ajtajait (fent és lent), és állítsd be őket úgy, hogy ne csukódjanak automatikusan.
+
 
 ## A kertben:
 
